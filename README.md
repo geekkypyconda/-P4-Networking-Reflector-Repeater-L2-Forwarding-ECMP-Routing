@@ -1,4 +1,4 @@
-# -P4-Networking-Reflector-Repeater-L2-Forwarding-ECMP-Routing
+# P4-Networking-Reflector-Repeater-L2-Forwarding-ECMP-Routing
 
 # Repeater
 
