@@ -1,0 +1,28 @@
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: *** Unknown syntax: simple_switch_CLI --thrift-port 9090
+RuntimeCmd: Setting default action of matchTable
+action:              drop
+runtime data:        
+RuntimeCmd: Adding entry to exact match table matchTable
+match key:           EXACT-00:00:0a:00:00:01
+action:              actionTableRepeater
+runtime data:        00:01
+Entry has been added with handle 0
+RuntimeCmd: Adding entry to exact match table matchTable
+match key:           EXACT-00:00:0a:00:00:02
+action:              actionTableRepeater
+runtime data:        00:02
+Entry has been added with handle 1
+RuntimeCmd: Adding entry to exact match table matchTable
+match key:           EXACT-00:00:0a:00:00:03
+action:              actionTableRepeater
+runtime data:        00:03
+Entry has been added with handle 2
+RuntimeCmd: Adding entry to exact match table matchTable
+match key:           EXACT-00:00:0a:00:00:04
+action:              actionTableRepeater
+runtime data:        00:04
+Entry has been added with handle 3
+RuntimeCmd: 
